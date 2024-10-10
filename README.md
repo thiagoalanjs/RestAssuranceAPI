@@ -1,9 +1,9 @@
 ![image](https://github.com/user-attachments/assets/8f41c291-ff3c-4f74-9d02-a21c0fc571f2)
 
 
-# Automação API RestAssurance
+# Automação API RestAssured
 
-Esse projeto é um exemplo de teste automatizado com RestAssurance, Java, Junit5 e Cucumber rodando com maven.
+Esse projeto é um exemplo de teste automatizado com RestAssured, Java, Junit5 e Cucumber rodando com maven.
 
 API para os testes - https://fakestoreapi.com
 
@@ -20,7 +20,7 @@ Junit5 - https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
 
 IDE - Intellij - https://www.jetbrains.com/help/idea/installation-guide.html
 
-RestAssurance - https://rest-assured.io/
+RestAssured - https://rest-assured.io/
 
 ## Instalação das dependências no pom.xml
 ```bash
