@@ -5,7 +5,7 @@
 
 Esse projeto é um exemplo de teste automatizado com RestAssurance, Java, Junit5 e Cucumber rodando com maven.
 
-API para os testes - [https://www.demoblaze.com/](https://fakestoreapi.com)
+API para os testes - https://fakestoreapi.com
 
 ## Instalação & Configuração
 
@@ -20,7 +20,7 @@ IDE - Intellij - https://www.jetbrains.com/help/idea/installation-guide.html
 
 RestAssurance - https://rest-assured.io/
 
-## Configurando o comando
+## Instalação das dependências no pom.xml
 ```bash
  <dependencies>
         <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
