@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/8f41c291-ff3c-4f74-9d02-a21c0fc571f2)
 
 
-# Automação Selenium Webdriver - Java
+# Automação API RestAssurance
 
 Esse projeto é um exemplo de teste automatizado com RestAssurance, Java, Junit5 e Cucumber rodando com maven.
 
