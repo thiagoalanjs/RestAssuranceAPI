@@ -1,5 +1,4 @@
-
-![image](https://github.com/user-attachments/assets/59fe45d6-c40b-4087-a88e-64d9c1ab47e9)
+![image](https://github.com/user-attachments/assets/8f41c291-ff3c-4f74-9d02-a21c0fc571f2)
 
 
 # Automação Selenium Webdriver - Java
