@@ -14,6 +14,8 @@ Java - https://www.oracle.com/br/java/technologies/downloads/
 
 Maven - https://maven.apache.org/install.html
 
+Cucumber - https://cucumber.io/docs/cucumber/
+
 Junit5 - https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
 
 IDE - Intellij - https://www.jetbrains.com/help/idea/installation-guide.html
